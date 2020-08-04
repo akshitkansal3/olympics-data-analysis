@@ -1,6 +1,6 @@
 ### Project Overview
 
- Analysim=ng Olympics dataset, for finding the top performers and relevant information
+ Analysing Olympics dataset, for finding the top performers and relevant information
 
 
 ### Learnings from the project
